@@ -19,8 +19,7 @@
 <h2 align="center">⚒️Languages and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,python,javascript,c,cpp,html,css," /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,linux,arch,postman,powershell,vim,pandas" /><br>
+    <img src="https://skillicons.dev/icons?i=nginx,python,css,nextjs,linux,postman,github,vim,nodejs,pandas,powershell,javascript,react,c,arch,git,html,cpp,bash,mysql" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
