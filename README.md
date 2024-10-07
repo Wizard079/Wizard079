@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wizard</h1>
 <h3 align="center">A cybersecurity enthusiast</h3>
-<img src="https://giffiles.alphacoders.com/360/36032.gif" align="right" width="400"/>
 
 - 🌱 I’m currently learning **Penetration testing and Binary Exploitation**
 
