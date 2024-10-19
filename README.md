@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **Task Automaiton**
 
-- 💬 Ask me about **I like to work computer when it comes to automate thing and braking thing**
-
 - ⚡ Fun fact **I am good at creaking jokes and binary both**
 
 </p>
